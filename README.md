@@ -7,6 +7,8 @@ This assigment assesses arbitrage opportunites for bitstamp and coinbase crytocu
 ### Installation Requirements
 '''
 $ import pandas as pd
+'''
 $ from pathlib import Path
+'''
 $ %matplotlib inline
 '''
